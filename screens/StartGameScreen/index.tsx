@@ -26,7 +26,7 @@ const styles = StyleSheet.create({
   inputContainer: {
     width: 300,
     maxWidth: '80%',
-    alighItems: 'center',
+    alignItems: 'center',
   },
   buttonContainer: {
     flexDirection: 'row',
